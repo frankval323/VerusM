@@ -4,7 +4,7 @@
 		"name": "LuckPool",
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
-	},],
+	}],
 	"user": "RPir44iVSy98VrXHsVCH48fR6MBL6qxF13.Phone_Farm",
 	"pass": "x",
 	"algo": "verus",
