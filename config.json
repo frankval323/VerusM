@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	}],
-	"user": "RBeRixYciWPUPdmyiJXiCkaAxgoRkXJNBL.Farm",
+	"user": "RPir44iVSy98VrXHsVCH48fR6MBL6qxF13.Phone_Farm",
 	"pass": "hybrid",
 	"algo": "verus",
 	"threads": 8,
